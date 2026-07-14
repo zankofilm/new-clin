@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">سامانه سمن‌ها</string>
+    <string name="title_activity_main">سامانه سمن‌ها</string>
+    <string name="package_name">ir.javanrood.ngo</string>
+    <string name="custom_url_scheme">ir.javanrood.ngo</string>
+</resources>
